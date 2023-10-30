@@ -19,6 +19,6 @@ function myFriends(names) {
   return friendName;
 }
 
-const input = ["Ryan", "Kieran", "Jason", "Yous"];
-const output = myFriends(input);
+const friends = ["Ryan", "Kieran", "Jason", "Yous"];
+const output = myFriends(friends);
 console.log(output);
